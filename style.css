@@ -129,7 +129,7 @@ p {
 .about {
     width: 100%;
     height: 80vh;
-    background-image: url(./img/AboutBackground.jpg);
+    background-image: url(AboutBackground.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
